@@ -1,0 +1,122 @@
+.jumbotron{
+	text-align: center;
+	background-color: #fff8f8;
+	background-size: cover;
+	background-position: 20px 140px;
+}
+.jumbotron h5{
+	font-weight: bold;
+	color: #fa5652;
+}
+.jumbotron h2{
+	margin: 20px 0px;
+	color: #035755;
+	font-weight: bold;
+}
+.jumbotron p{
+	color: #818080;
+}
+.kotak{
+	border-radius: 20px;
+	background-color: #035755;
+	padding: 10px 20px;
+	color: white;
+}
+.about .main{
+	margin-top: 10px;
+}
+.about h5{
+	font-weight: bold;
+	color: #fa5652;
+}
+.about h2{
+	color:#035755;
+	font-weight: bold;
+}
+.about .kotak{
+	background-color: #f3a3a1;
+	font-weight: bold;
+}
+.Contagion{
+	background-color: #fff8f8;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.Contagion .card{
+	margin-top: 10px;
+	box-shadow: rgb(1, 0, 1);
+}
+.Contagion h4{
+	color: #fa5652;
+	font-weight: bold;
+}
+.Contagion h1{
+	color: #035755;
+	font-weight: bold;
+}
+.Contagion h5{
+	color: #035755;
+	font-weight: bold;
+}
+.Contagion p{
+	color: #818080;
+}
+.Contagion img{
+	height: 180px;
+	width: 180px;
+}
+.Symptomps{
+	padding: 20px 0px;
+}
+.Symptomps h1{
+	color: #035755;
+	font-weight: bold;
+}
+.Symptomps h4{
+	color: #fa5652;
+	font-weight: bold;
+}
+.data{
+	background-color: #fff8f8;
+	padding-top: 20px;
+}
+.data h1{
+	color: #fa5652;
+	font-weight: bold;
+}
+.info{
+	display: flex;
+}
+.info h6{
+	font-weight: bold;
+}
+.info .info-deth{
+	border-radius: 15px;
+	color: #035755;
+	padding: 20px;
+	margin: 10px 10px;
+	background-color: #fddedd;
+}
+.info .info-positif{
+	border-radius: 15px;
+	color: #035755;
+	padding: 20px;
+	margin: 10px 10px;
+	background-color: #fdf7dd;
+}
+.info .info-sembuh{
+	border-radius: 15px;
+	color: #035755;
+	padding: 20px;
+	margin: 10px 10px;
+	background-color: #ddfde2;
+}
+/* mobile view */
+@media (min-width: 992px) { 
+	.jumbotron{
+		text-align: left;
+	}
+	.about .main{
+		margin-top: 150px;
+	}
+}
