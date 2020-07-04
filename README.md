@@ -1,4 +1,5 @@
 <h6>Integrasi API kawalcorona.com</h6>
+<h2>Download langsung jalankan "php artisan serve" </h2>
 <h1>Di Buat Menggunakan </h1>
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
